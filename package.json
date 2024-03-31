@@ -1,0 +1,16 @@
+{
+  "name": "backend_js",
+  "version": "1.0.0",
+  "description": "a backend at ak,s vs code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "arif"
+  ],
+  "author": "arif khan",
+  "license": "ISC"
+}
